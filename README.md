@@ -1,1 +1,1 @@
-# PierwszeRepo
+bla bla Moje pierwsze repo
